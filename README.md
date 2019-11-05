@@ -1,7 +1,5 @@
 # RNN-tv-script-generation
 
-TV scripts generation using Recurrent neural network (RNNs)
-
 The purpose of this project is to develop a *Recurrent neural network (RNN)* for generate a "fake" TV scripts based on patterns it recognizes in this training data and is my *third project* of the [*Udacity Deep Learning Nanodegree program*](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
 ## Installation
